@@ -1,0 +1,42 @@
+.centerElement
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.leftFloat
+{
+    float: left;
+}
+
+.halfWidth
+{
+     width: 50%;
+}
+
+div
+{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    height: 700px;
+}
+
+#Color1
+{
+    /* background-color: red; */
+    background-color: rgb(235, 252, 2);
+}
+
+#Color2
+{
+    /* background-color: white; */
+    background-color: rgb(60, 58, 199);
+}
+
+#Color3
+{
+    /* background-color:blue; */
+    background-color: rgb(155, 75, 119);
+}
